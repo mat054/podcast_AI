@@ -40,10 +40,11 @@ o formato do roteiro deve ser
 - O podcast vai ser apresentado somente por uma pessoa, chamada Mateus
 - O podcast deve ser curto
 
-  {REGRAS NEGATIVAS}
+{REGRAS NEGATIVAS}
 
 - Não use muitos termos técnicos
-- Não ultrapasse 8 minutos de duração
+- Não ultrapasse 8 minutos de duração "
+
 
 # Conteúdo gerado:
 
@@ -63,9 +64,4 @@ E para finalizar com chave de ouro, vamos falar sobre o poder da ciência de dad
 E por hoje é isso, pessoal! Espero que tenham curtido essas curiosidades e que estejam tão animados quanto eu para explorar ainda mais o mundo dos dados. Se você gostou do episódio, não esquece de compartilhar com os amigos e deixar seus comentários. Eu sou o Mateusão e esse foi o DataTalk dessa semana. Até a próxima!
 
 
-{REGRAS NEGATIVAS}
 
-- Não use muitos termos técnicos
-- Não ultrapasse 8 minutos de duração "
-
-'
