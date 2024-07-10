@@ -40,6 +40,11 @@ o formato do roteiro deve ser
 - O podcast vai ser apresentado somente por uma pessoa, chamada Mateus
 - O podcast deve ser curto
 
+  {REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 8 minutos de duração
+
 # Conteúdo gerado:
 
 [INTRODUÇÃO]
